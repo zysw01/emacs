@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ R
+ c-mode
+ S
+ cd
+ 5x5
+ arp
+ dbx
+)
+
+;; ----- smex-data -----
+(
+ (R . 9)
+ (c-mode . 1)
+)
