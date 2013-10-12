@@ -1,20 +1,86 @@
-((("zysw/plugins" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("Amelie" .
-   [1 0 0 0 0 0])
-  ("require" .
+((("update.packages" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("installed.packages" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("summary" .
    [1 0 0 0 0 0 0])
-  ("plot" .
+  ("fit" .
+   [1 0 0])
+  ("lm" .
+   [1 0])
+  ("round" .
+   [1 0 0 0 0])
+  ("data.frame" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("df" .
+   [2 0])
+  ("1:20" .
    [1 0 0 0])
-  ("list" .
+  ("rnorm" .
+   [0 0 0 2 1])
+  ("set.seed" .
+   [0 0 0 0 1 0 0 0])
+  ("predict" .
+   [0 0 0 0 0 0 1])
+  ("Process" .
+   [0 0 1 0 0 0 0])
+  ("preProcess" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("p" .
+   [1])
+  ("comboInfo$remove" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("comboInfo" .
+   [0 0 0 0 0 2 0 0 0])
+  ("findLinearCombos" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("newdata2" .
+   [3 0 0 0 0 0 0 0])
+  ("highCorr" .
+   [0 0 0 2 0 0 0 0])
+  ("newdata1" .
+   [0 0 0 0 0 1 0 0])
+  ("head" .
+   [2 0 0 0])
+  ("findCorrelation" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("cor" .
+   [1 0 0])
+  ("zerovar" .
+   [0 0 0 2 0 0 0])
+  ("nearZeroVar" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("mode" .
    [1 0 0 0])
-  ("Math" .
-   [0 1 0 0])
-  ("install.packages" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("InsectSprays" .
-   [0 1 0 0 1 0 0 0 0 0 0 0])
+  ("Summary" .
+   [0 0 0 0 0 0 1])
+  ("summar" .
+   [0 0 0 0 0 1])
+  ("length" .
+   [0 0 0 0 0 4])
+  ("mdrrDescr" .
+   [0 0 0 0 2 0 0 0 1])
+  ("data" .
+   [0 0 0 1])
+  ("library" .
+   [0 0 0 1 0 0 1])
+  ("Amelie-theme" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
   ("autopair" .
    [0 0 0 0 0 1 0 0])
-  ("Amelie-theme" .
-   [0 0 1 0 0 0 0 0 0 0 0 0])))
+  ("InsectSprays" .
+   [0 1 0 0 1 0 0 0 0 0 0 0])
+  ("install.packages" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("Math" .
+   [0 1 0 0])
+  ("list" .
+   [1 0 0 0])
+  ("plot" .
+   [1 0 0 0])
+  ("require" .
+   [1 0 0 0 0 0 0])
+  ("Amelie" .
+   [1 0 0 0 0 0])
+  ("zysw/plugins" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])))
